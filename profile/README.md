@@ -1,5 +1,5 @@
 ### Welcome to Agent Lab
-> Taking actions is all we care 
+> Taking actions intelligently is all we study 
 
 We are interested in research on taking actions through Deep Learning, 
 with a particular focus on machine learning techniques such as deep reinforcement learning and learning from demonstration. 
