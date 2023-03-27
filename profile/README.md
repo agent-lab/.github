@@ -3,7 +3,7 @@
 
 We are interested in research on taking actions through Deep Learning, 
 with a particular focus on machine learning techniques such as deep reinforcement learning and learning from demonstration. 
-We am applying these methods to problems in video games, robotics and multi-agent systems.
+We are applying these methods to problems in video games, robotics and multi-agent systems.
 
 On-going projects: 
 * Policy gradients in large-scale training; 
